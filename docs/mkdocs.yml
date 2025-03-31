@@ -1,7 +1,6 @@
-title: Guides
-remote_theme: just-the-docs/just-the-docs
-color_scheme: light
+site_name: Guides
+theme:
+  name: material
 
-# Optional nav settings
-search_enabled: true
-heading_anchors: true
+nav:
+  - Home: index.md
