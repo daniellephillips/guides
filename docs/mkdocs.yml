@@ -1,6 +1,0 @@
-site_name: Guides
-theme:
-  name: material
-
-nav:
-  - Home: index.md
