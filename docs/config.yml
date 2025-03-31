@@ -1,9 +1,7 @@
----
-layout: default
-title: Home
-nav_order: 1
----
+title: Guides
+remote_theme: just-the-docs/just-the-docs
+color_scheme: light
 
-# Welcome to Guides
-
-Your clean and minimal knowledge base lives here.
+# Optional nav settings
+search_enabled: true
+heading_anchors: true
